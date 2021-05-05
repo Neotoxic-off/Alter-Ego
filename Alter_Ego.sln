@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alter Ego", "Alter_Ego\Alter Ego.csproj", "{DA65D3E7-9CFE-45F7-9164-FBA024891675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA65D3E7-9CFE-45F7-9164-FBA024891675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA65D3E7-9CFE-45F7-9164-FBA024891675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA65D3E7-9CFE-45F7-9164-FBA024891675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA65D3E7-9CFE-45F7-9164-FBA024891675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0ACAAA-0018-442B-B028-1D9271898635}
+	EndGlobalSection
+EndGlobal
